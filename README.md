@@ -46,6 +46,7 @@ This project analyzes customer engagement with marketing offers (BOGO, Discount,
 
 ## 📊 Dashboards Overview
 
+
 ### **1. Customer Dashboard**
 ![Customer Dashboard](imgs/1_Customer_Dashboard.png)  
 **Goal:** Understand customer demographics and distribution.  
@@ -55,9 +56,10 @@ This project analyzes customer engagement with marketing offers (BOGO, Discount,
 - Income distribution: customers across different income ranges.  
 - **Interactive filters**: Year, Month, or custom period to explore different timeframes.  
 
- ---
+ <p align="center">•••••••••••••••••••••••••••••••••••••••</p>  
 
 ### **2. Income Dashboard**
+![Income Dashboard](imgs/2_Income_Dashboard.png)  
 **Goal:** Analyze revenue and customer spending patterns.  
 - Total and average income per period.  
 - Income distribution across **countries and regions**.  
@@ -65,9 +67,10 @@ This project analyzes customer engagement with marketing offers (BOGO, Discount,
 - Analyze how income trends change over time.  
 - **Interactive filters**: Year, Month, or custom period to dynamically view income metrics.  
 
- ---
+ <p align="center">•••••••••••••••••••••••••••••••••••••••</p>  
 
 ### **3. Events & Offers Dashboard**
+![Events & Offers Dashboard](imgs/3_Events&Offer_Dashboard.png)  
 **Goal:** Evaluate customer engagement with marketing offers.  
 - Total offers **received, viewed, and completed** per event and offer type.  
 - Engagement by **age group** to understand which demographic interacts most.  
