@@ -47,7 +47,7 @@ This project analyzes customer engagement with marketing offers (BOGO, Discount,
 ## 📊 Dashboards Overview
 
 ### **1. Customer Dashboard**
-![Customer Dashboard](imgs/1_Customer Dashboard.png)  
+![Customer Dashboard](imgs/1_Customer_Dashboard.png)  
 **Goal:** Understand customer demographics and distribution.  
 - Total number of customers and their distribution across **Country, State, and Region**.  
 - Gender breakdown: number of **male and female** customers.  
